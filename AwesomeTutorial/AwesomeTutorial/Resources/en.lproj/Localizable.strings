@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  AwesomeTutorial
+
+  Created by Moulinet Chloë on 30/10/2018.
+  Copyright © 2018 Moulinet Chloë. All rights reserved.
+*/
+
+/* Tutorials titles */
+"tutorial_title_welcome" = "Welcome to BeCycle";
+"tutorial_title_map" = "All I wanna do is... Bicycle ! 🎵";
+"tutorial_title_reward" = "Ride, get rewarded";
+
+/* Tutorials description texts */
+"tutorial_description_welcome" = "BeCycle is the best app to track your cycling sessions and challenge your friends !";
+"tutorial_description_map" = "Keep track of your routes, miles cycled, times and so much more...";
+"tutorial_description_reward" = "Earn points, complete achievements and challenge your friends to win prizes !";

@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  AwesomeTutorial
+
+  Created by Moulinet Chloë on 30/10/2018.
+  Copyright © 2018 Moulinet Chloë. All rights reserved.
+*/
+
+/* Tutorials titles */
+"tutorial_title_welcome" = "Bievenue sur BeCycle";
+"tutorial_title_map" = "A bicyclette... 🎵";
+"tutorial_title_reward" = "Roulez, vous êtes récompensé";
+
+/* Tutorials description texts */
+"tutorial_description_welcome" = "BeCycle est la meilleure app pour suivre vos sorties à vélo et défier vos amis !";
+"tutorial_description_map" = "Suivez vos itinéraires, distance parcourue, temps et plein d'autres choses...";
+"tutorial_description_reward" = "Gagnez des points, des trophées et défiez vos amis pour gagner des prix !";

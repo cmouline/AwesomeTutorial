@@ -1,0 +1,6 @@
+framework module Pods_AwesomeTutorialUITests {
+  umbrella header "Pods-AwesomeTutorialUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
