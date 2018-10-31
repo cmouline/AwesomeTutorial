@@ -1,7 +1,7 @@
 # AwesomeTutorial
 
-## 3 slide onboarding turorial
+### 3 slide onboarding turorial
 
-## Lottie animations
+### Lottie animations
 
-## 3 schemes localized in French, English and Spanish
+### 3 schemes localized in French, English and Spanish
